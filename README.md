@@ -1,17 +1,10 @@
 # Technical task for new applicants
 
-## Coding Task Guidelines
-
-There's few better ways to assess someone's programming skills than to have them undertake a reasonably open ended coding task. This task is borrowed heavily from https://github.com/Westpac-Mobile/CodingTest, so thank-you to those people for such a great boilerplate. 
-
 ## Requirements
 
 The task is to create a basic web application that displays the current temperature using https://darksky.net/ using the geo-location of your browser.
 
-Your Secret Key:
-7e014ce08bfd318b089a32fb0289f9aa
-
-https://api.darksky.net/forecast/7e014ce08bfd318b089a32fb0289f9aa/37.8267,-122.4233
+Goto to https://api.darksky.net/ signup for an account to get access to an api key.
 
 ### Key business requirements
 
