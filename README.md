@@ -23,10 +23,12 @@ https://api.darksky.net/forecast/7e014ce08bfd318b089a32fb0289f9aa/37.8267,-122.4
 ## Getting Started
 
 * Fork this repository.
-* to install the dependencies `npm install`
+* Install nodejs on your computer https://nodejs.org/en/
+* clone the code base
+* Install the dependencies `npm install`
 
-* to start the server `npm run start:dev`
-* if everything is working fine you should see:
+* To start the server `npm run start:dev`
+* If everything is working fine you should see:
 
 ```
 2018-05-16T03:07:02.330Z - info: *******************************************************************************************
@@ -49,7 +51,7 @@ Requirements:
 * The MVC architectural structure is predefined for you please don't change it
 * Use the scaffold to implement the missing bits of code (you will see comments through out the code base to guide you) to get the application working
 * In the /src/modules/weather folder implement the models, repository, api, view and anything else
-that you see fit to get the application to inject the response form the api into the template.
+that you see fit to get the application to inject the response from the api into the template.
 * Commit and push your code regularly
 
 ### Task 2
