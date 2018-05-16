@@ -1,0 +1,12 @@
+dist/
+coverage/
+node_modules/
+.nyc_output/
+yarn-error.log
+public/
+.idea/
+*.deb
+*.swp
+.nyc_output/
+coverage/
+npm-debug.log

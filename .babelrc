@@ -1,0 +1,16 @@
+{
+    "presets": ["env", "flow"],
+    "plugins": [
+        "transform-async-to-generator",
+        "transform-object-rest-spread"
+    ],
+    "env": {
+        "test": {
+            "plugins": [
+                ["istanbul", {
+                    "include": ["/src/**/*.js"]
+                }]
+            ]
+        }
+    }
+}
