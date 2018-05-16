@@ -57,13 +57,22 @@ that you see fix to get the application to inject the response form the api into
 ### Task 2
 Style the template based on the image provided into html and css.
 ```/src/public/sample-gui.png```
+Requirements:
+
+The image of the weather should be based on the forecast:
+
+Cloudy should display a cloud, sunny should display a sunshine and so forth
 
 ### Task 3
 coding style: https://github.com/airbnb/javascript
 You will notice the code uses linting, tests and type checking
 
 Requirements:
-* fix any linting issues based on the coding style provided
-* run ```npm run build``` should not produce any warnings or errors
+* Fix any linting issues based on the coding style provided
+* Run ```npm run build``` should not produce any warnings or errors
 
+### Task 4
+Submit your code by making a pull request
+
+if you have any questions please email: jay@firstever.com
 
