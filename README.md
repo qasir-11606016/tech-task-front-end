@@ -43,7 +43,7 @@ https://api.darksky.net/forecast/7e014ce08bfd318b089a32fb0289f9aa/37.8267,-122.4
 
 ### Complete each task below:
 ### Task 1
-Using this code base create an endpoint to proxy a request to api.darksky.net and return a
+Using this code base, create an endpoint to proxy a request to api.darksky.net and return a
 response with the current temperature for your location based on the geolocation
 and display it on the homepage http://localhost:4000
 
@@ -51,8 +51,8 @@ Requirements:
 * The MVC architectural structure is predefined for you please don't change it
 * Use the scaffold to implement the missing bits of code (you will see comments through out the code base to guide you) to get the application working
 * In the /src/modules/weather folder implement the models, repository, api, view and anything else
-that you see fix to get the application to inject the response form the api into the template.
-* commit and push your code regularly
+that you see fit to get the application to inject the response form the api into the template.
+* Commit and push your code regularly
 
 ### Task 2
 Style the template based on the image provided into html and css.
@@ -64,7 +64,7 @@ The image of the weather should be based on the forecast:
 Cloudy should display a cloud, sunny should display a sunshine and so forth
 
 ### Task 3
-coding style: https://github.com/airbnb/javascript
+Coding style: https://github.com/airbnb/javascript
 You will notice the code uses linting, tests and type checking
 
 Requirements:
@@ -74,5 +74,5 @@ Requirements:
 ### Task 4
 Submit your code by making a pull request
 
-if you have any questions please email: jay@firstever.com
+If you have any questions please email: jay@firstever.com
 
