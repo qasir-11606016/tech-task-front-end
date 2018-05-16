@@ -4,8 +4,6 @@
 
 There's few better ways to assess someone's programming skills than to have them undertake a reasonably open ended coding task. This task is borrowed heavily from https://github.com/Westpac-Mobile/CodingTest, so thank-you to those people for such a great boilerplate. 
 
-Please do not spend more that 2-3 hours on this task. If it takes you much longer than that, there is something fundamentally wrong with your approach.
-
 ## Requirements
 
 The task is to create a basic web application that displays the current temperature using https://darksky.net/ using the geo-location of your browser.
