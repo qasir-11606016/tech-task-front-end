@@ -3,7 +3,6 @@ coverage/
 node_modules/
 .nyc_output/
 yarn-error.log
-public/
 .idea/
 *.deb
 *.swp
