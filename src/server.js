@@ -16,7 +16,7 @@ import ServiceContainer from './lib/ServiceContainer';
 import RouteLoader from './lib/RouteLoader';
 import MiddlewareLoader from './lib/MiddlewareLoader';
 import ConsoleLoggerFactory from './lib/logger/ConsoleLoggerFactory';
-import InvalidRouteRedirectMiddleware from './lib/middleware/invalidRouteRedirectMiddleware';
+import InvalidRouteRedirectMiddleware from './lib/middleware/InvalidRouteRedirectMiddleware';
 
 // logger for server
 const consoleLoggerFactory = new ConsoleLoggerFactory();

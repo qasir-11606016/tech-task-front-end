@@ -16,7 +16,7 @@ Goto to https://api.darksky.net/ signup for an account to get access to an api k
 ## Getting Started
 
 * Fork this repository.
-* Install nodejs on your computer https://nodejs.org/en/
+* Install nodejs on your computer https://nodejs.org/en/  (tested on version 8.11.1)
 * clone the code base
 * Install the dependencies `npm install`
 
