@@ -4,7 +4,7 @@
 
 The task is to create a basic web application that displays the current temperature using https://darksky.net/ using the geo-location of your browser.
 
-Goto to https://api.darksky.net/ signup for an account to get access to an api key.
+Goto https://darksky.net/dev/register signup for an account to get access to an api key.
 
 ### Key business requirements
 
