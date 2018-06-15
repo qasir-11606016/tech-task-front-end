@@ -2,7 +2,7 @@
 
 ## Requirements
 
-The task is to create a basic react web application that displays the current temperature using https://darksky.net/ using the geo-location of your browser.
+The task is to create a basic **React** web application that displays the current temperature using https://darksky.net/ using the geo-location of your browser.
 
 Goto https://darksky.net/dev/register signup for an account to get access to an api key.
 
@@ -19,7 +19,7 @@ Goto https://darksky.net/dev/register signup for an account to get access to an 
 
 ### Complete each task below:
 ### Task 1
-Create a react application and style it based on the image provided.
+Create a **React** application and style it based on the image provided.
 ```/src/public/sample-gui.png```
 
 ![alt text](/src/public/sample-gui.png)
