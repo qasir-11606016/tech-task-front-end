@@ -1,11 +1,2 @@
-dist/
-coverage/
-node_modules/
-.nyc_output/
-yarn-error.log
 .idea/
-*.deb
-*.swp
-.nyc_output/
-coverage/
-npm-debug.log
+node_modules/
